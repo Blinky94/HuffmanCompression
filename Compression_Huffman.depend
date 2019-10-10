@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1460553348 source:c:\projetsc++\compression_huffman\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<list>
+	<windows.h>
+	<clocale>
+	<bitset>
+
+1460549748 source:g:\projetsc++\compression_huffman\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<list>
+	<windows.h>
+	<clocale>
+	<bitset>
+

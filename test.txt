@@ -1,0 +1,39 @@
+
+Première situation
+
+Supposons que dans un train roulant à vitesse constante (sans les accélérations, petites ou grandes,
+ perceptibles dans le cas d'un train réel), un voyageur se tient debout, immobile par rapport à ce 
+ train, et tient un objet dans la main. S’il lâche l’objet, celui-ci tombe à la verticale de la 
+ main qui le tenait (vitesse initiale par rapport au train nulle) et selon une certaine loi en 
+ fonction du temps.
+
+Le principe de relativité ne dit pas que le mouvement de cet objet sera le même si, après l’avoir 
+rapporté à un référentiel lié au train on le rapporte à un référentiel lié au sol : l’expérience
+ montre que ce serait erroné puisque, vu du train l’objet décrit une droite verticale, tandis que, 
+ vu du sol il décrit une parabole.
+
+Vues depuis l'un ou l'autre de ces référentiels les conditions initiales de l'expérience ne sont
+ pas les mêmes : l'attraction gravitationnelle est identique dans les deux, mais par rapport au
+  référentiel lié au train la vitesse initiale de l’objet lâché est nulle, tandis que par rapport 
+  au référentiel lié au sol, elle ne l’est pas.
+
+Toutefois, une même loi mathématique pour chacun des deux référentiels permet de décrire cette
+ expérience, cette loi tient compte de la vitesse initiale par rapport au référentiel.
+
+Deuxième situation
+
+En revanche, si quelqu’un, immobile par rapport au sol, lâche un objet qu’il tient dans la main,
+ les conditions générales ainsi que les conditions initiales sont identiques pour l'expérience 
+ faite au sol et celle faite dans le train. Selon le principe de relativité, l’objet doit tomber 
+ de manière identique que ce soit dans le cas où il est lâché dans le train (et l'observation faite 
+ depuis le train aussi) ou au sol (et l'observation faite depuis le sol aussi) : c’est bien ce que 
+ l’expérience confirme.
+
+Conclusion
+
+Dans les deux cas exposés, le principe de relativité s'applique différemment : pour l'expérience
+ vue depuis deux référentiels différents, les observations sont différentes mais une même loi
+  mathématique les décrit toutes les deux (où il est tenu compte de la vitesse initiale, nulle 
+  ou non) ; pour les deux expériences faites dans deux référentiels distincts, où les conditions 
+  de l'expérience sont identiques, les observations sont rigoureusement identiques 
+  (aux imprécisions de mesures près).
